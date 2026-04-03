@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+Application Support Engineer transitioning to SRE, specializing in automation, scalability, and financial infrastructure.
+
 <!--
 **bangz-me/bangz-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
